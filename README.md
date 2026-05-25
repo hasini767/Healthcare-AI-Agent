@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩺 AI Healthcare Voice Assistant
 
 A comprehensive full-stack healthcare application that leverages AI-powered voice interactions for patient triage, symptom analysis, specialist mapping, and appointment booking. Built with modern technologies including FastAPI, PostgreSQL, React, and integrated with leading AI models.
@@ -469,3 +470,7 @@ For support and questions:
 ---
 
 **Built with ❤️ for better healthcare accessibility**
+=======
+# Healthcare-AI-Agent
+A comprehensive full-stack healthcare application that leverages AI-powered voice interactions for patient triage, symptom analysis, specialist mapping, and appointment booking. It is built with modern technologies including FastAPI, PostgreSQL, React, and integrated with leading AI models like Gemini and GPT-4. 
+>>>>>>> 3e623ffe970207d32601b93bc13f2f70eae34884

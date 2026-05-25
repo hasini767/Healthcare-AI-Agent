@@ -22,7 +22,7 @@ class AgentState(TypedDict):
 llm = ChatOpenAI(
     model="gpt-4",
     temperature=0.2,
-    openai_api_key="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"
+    openai_api_key="#" + os.getenv("OPENAI_API_KEY")
 )
 
 # Normalize Agent using GPT-4
